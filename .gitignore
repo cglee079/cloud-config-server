@@ -1,0 +1,12 @@
+.idea
+.gradle
+out
+build
+/application-set.yml
+
+!gradle/wrapper/gradle-wrapper.jar
+!**/src/main/**
+!**/src/test/**
+
+
+
